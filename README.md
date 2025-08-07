@@ -29,6 +29,10 @@ write end points in nodejs
 
 - env port 9114 changed
 
+### 0.2.4
+
+- packagejson script start added
+
 latest node supported with assert fixed
 
 ## License

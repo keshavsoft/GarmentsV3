@@ -1,11 +1,12 @@
 {
   "name": "GarmentsV2",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "garments qrcodes back and data",
   "main": "app.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
   },
   "author": "",
   "license": "ISC",
