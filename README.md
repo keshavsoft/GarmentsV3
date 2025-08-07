@@ -25,6 +25,10 @@ write end points in nodejs
 
 - print header removed
 
+### 0.2.3
+
+- env port 9114 changed
+
 latest node supported with assert fixed
 
 ## License
