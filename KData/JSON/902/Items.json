@@ -1,0 +1,288 @@
+[
+  {
+    "pk": "2",
+    "ItemName": "NIGHTHY",
+    "GST": "5",
+    "Factor": "1"
+  },
+  {
+    "pk": "3",
+    "ItemName": "NIGHT SUIT",
+    "GST": "5",
+    "Factor": "1"
+  },
+  {
+    "pk": "4",
+    "ItemName": "NIGHT SLIPS",
+    "GST": "5",
+    "Factor": "1"
+  },
+  {
+    "pk": "5",
+    "ItemName": "western wear",
+    "GST": "5",
+    "Factor": "1"
+  },
+  {
+    "pk": "6",
+    "ItemName": "palazo",
+    "GST": "5",
+    "Factor": "1"
+  },
+  {
+    "pk": "7",
+    "ItemName": "skirt",
+    "GST": "5",
+    "Factor": "1"
+  },
+  {
+    "pk": "8",
+    "ItemName": "ready made blouse",
+    "GST": "5",
+    "Factor": "1"
+  },
+  {
+    "pk": "9",
+    "ItemName": "dress materials",
+    "GST": "5",
+    "Factor": "1"
+  },
+  {
+    "pk": "10",
+    "ItemName": "ready made",
+    "GST": "5",
+    "Factor": "1"
+  },
+  {
+    "pk": "11",
+    "ItemName": "bed sheets ",
+    "GST": "5",
+    "Factor": "1"
+  },
+  {
+    "pk": "12",
+    "ItemName": "sarees",
+    "GST": "5",
+    "Factor": "1"
+  },
+  {
+    "pk": "13",
+    "ItemName": "t shirt",
+    "GST": "5",
+    "Factor": "1"
+  },
+  {
+    "pk": "14",
+    "ItemName": "lehanga",
+    "GST": "5",
+    "Factor": "1"
+  },
+  {
+    "pk": "15",
+    "ItemName": "kurti",
+    "GST": "5",
+    "Factor": "1"
+  },
+  {
+    "pk": "16",
+    "ItemName": "material",
+    "GST": "5",
+    "Factor": "1"
+  },
+  {
+    "pk": "17",
+    "ItemName": "stoles",
+    "GST": "5",
+    "Factor": "1"
+  },
+  {
+    "pk": "18",
+    "ItemName": "IW",
+    "GST": "5",
+    "Factor": "1"
+  },
+  {
+    "pk": "19",
+    "ItemName": "BANGLES",
+    "GST": "3",
+    "Factor": "1"
+  },
+  {
+    "pk": "20",
+    "ItemName": "Earrings",
+    "GST": "3",
+    "Factor": "1"
+  },
+  {
+    "pk": "21",
+    "ItemName": "jewellery",
+    "GST": "3",
+    "Factor": "1"
+  },
+  {
+    "pk": "22",
+    "ItemName": "hand bags",
+    "GST": "18",
+    "Factor": "1"
+  },
+  {
+    "pk": "23",
+    "ItemName": "bindies",
+    "GST": "3",
+    "Factor": "1"
+  },
+  {
+    "pk": "24",
+    "ItemName": "HAIR CLIPS",
+    "GST": "3",
+    "Factor": "1"
+  },
+  {
+    "pk": "25",
+    "ItemName": "LEGGINGS",
+    "GST": "5",
+    "Factor": "1"
+  },
+  {
+    "pk": "26",
+    "ItemName": "SEGGERETTE PANT",
+    "GST": "5",
+    "Factor": "1"
+  },
+  {
+    "pk": "27",
+    "ItemName": "KURTI PLAZO",
+    "GST": "5",
+    "Factor": "1"
+  },
+  {
+    "pk": "28",
+    "ItemName": "dupattas",
+    "GST": "5",
+    "Factor": "1"
+  },
+  {
+    "pk": "29",
+    "ItemName": "BLOUCE PEICE",
+    "GST": "5",
+    "Factor": "1"
+  },
+  {
+    "pk": "30",
+    "ItemName": "LACE",
+    "GST": "5",
+    "Factor": "1"
+  },
+  {
+    "ItemName": "THAN MATERIAL",
+    "GST": "5",
+    "Factor": "2",
+    "pk": 31,
+    "UuId": 31,
+    "DateTime": "2024-06-05T07:46:47.963Z"
+  },
+  {
+    "ItemName": "IKKATH SAREE",
+    "GST": "5",
+    "Factor": "1",
+    "pk": 32,
+    "UuId": 32,
+    "DateTime": "2024-06-11T13:46:42.090Z"
+  },
+  {
+    "ItemName": "GADWAL SAREE",
+    "GST": "5",
+    "Factor": "1",
+    "pk": 33,
+    "UuId": 33,
+    "DateTime": "2024-06-11T13:47:41.365Z"
+  },
+  {
+    "ItemName": "FANCY THAN MATERIAL",
+    "GST": "5",
+    "Factor": "1",
+    "pk": 34,
+    "UuId": 34,
+    "DateTime": "2024-06-12T08:40:32.003Z"
+  },
+  {
+    "ItemName": "UPPADA  SAREES",
+    "GST": "5",
+    "Factor": "1",
+    "pk": 35,
+    "UuId": 35,
+    "DateTime": "2024-07-27T10:44:58.695Z"
+  },
+  {
+    "ItemName": "DIGITAL SAREES",
+    "GST": "5",
+    "Factor": "1",
+    "pk": 36,
+    "UuId": 36,
+    "DateTime": "2024-07-27T12:57:38.980Z"
+  },
+  {
+    "ItemName": "SHORT TOP",
+    "GST": "5",
+    "Factor": "1",
+    "pk": 37,
+    "UuId": 37,
+    "DateTime": "2024-08-14T12:43:30.172Z"
+  },
+  {
+    "ItemName": "3 PCS SET",
+    "GST": "5",
+    "Factor": "1",
+    "pk": 38,
+    "UuId": 38,
+    "DateTime": "2024-08-14T12:44:43.478Z"
+  },
+  {
+    "ItemName": "2 PCS SET",
+    "GST": "5",
+    "Factor": "1",
+    "pk": 39,
+    "UuId": 39,
+    "DateTime": "2024-08-14T13:34:06.363Z"
+  },
+  {
+    "ItemName": "FROCK",
+    "GST": "5",
+    "Factor": "1",
+    "pk": 40,
+    "UuId": 40,
+    "DateTime": "2024-08-14T13:38:43.004Z"
+  },
+  {
+    "ItemName": "LONG TOP",
+    "GST": "5",
+    "Factor": "1",
+    "pk": 41,
+    "UuId": 41,
+    "DateTime": "2024-08-14T13:38:58.221Z"
+  },
+  {
+    "ItemName": "FANCY SAREE",
+    "GST": "5",
+    "Factor": "1",
+    "UuId": 42,
+    "pk": 42,
+    "DateTime": "2025-03-25T06:01:31.596Z"
+  },
+  {
+    "ItemName": "COTTON SAREE",
+    "GST": "5",
+    "Factor": "1",
+    "UuId": 43,
+    "pk": 43,
+    "DateTime": "2025-03-25T06:28:43.275Z"
+  },
+  {
+    "ItemName": "shirt",
+    "GST": "5",
+    "Factor": "1",
+    "UuId": 44,
+    "pk": 44,
+    "DateTime": "2025-08-07T13:12:38.912Z"
+  }
+]

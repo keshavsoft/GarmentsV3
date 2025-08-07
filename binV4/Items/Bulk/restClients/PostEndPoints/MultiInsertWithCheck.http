@@ -1,0 +1,4 @@
+POST http://localhost:7318/binV4/Items/Bulk/MultiInsertWithCheck
+Content-Type: application/json
+
+[{"ItemName":"","GST":"","Factor":0},{"ItemName":"","GST":"","Factor":0}]

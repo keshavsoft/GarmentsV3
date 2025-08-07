@@ -1,0 +1,4 @@
+POST http://localhost:7318/binV4/Discounts/Bulk/MultiInsertWithCheck
+Content-Type: application/json
+
+[{"ProductName":"","CostPrice":0},{"ProductName":"","CostPrice":0}]

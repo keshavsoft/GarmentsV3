@@ -1,0 +1,4 @@
+POST http://localhost:7318/binV4/PurchaseItems/Bulk
+Content-Type: application/json
+
+{"FK":"","sno":"","Date":"","Qty":0,"UnitRate":"","Amount":"","ItemName":"","PercentageValueAddition":"","MRP":""}

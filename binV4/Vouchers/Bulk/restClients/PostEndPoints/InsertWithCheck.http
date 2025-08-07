@@ -1,0 +1,4 @@
+POST http://localhost:7318/binV4/Vouchers/Bulk
+Content-Type: application/json
+
+{"BillNumber":"","Date":"","SupplierName":"","AliasName":"","TotalAmount":""}

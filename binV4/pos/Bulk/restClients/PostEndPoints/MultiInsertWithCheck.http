@@ -1,0 +1,4 @@
+POST http://localhost:7318/binV4/pos/Bulk/MultiInsertWithCheck
+Content-Type: application/json
+
+[{"BillNumber2425":0,"Date":"","CustomerName":"","ContactNumber":"","CustomerNumber":"","PaymentMode":"","GSTNumber":"","DateTime":""},{"BillNumber2425":0,"Date":"","CustomerName":"","ContactNumber":"","CustomerNumber":"","PaymentMode":"","GSTNumber":"","DateTime":""}]
