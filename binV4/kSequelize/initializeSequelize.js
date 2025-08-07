@@ -1,5 +1,5 @@
 import { Sequelize } from "sequelize";
-import Configjson from '../Config.json' assert { type: 'json' };
+import Configjson from '../Config.json' with { type: 'json' };
 
 // this is commented as this is only useful when creating sample database
 import dotenv from 'dotenv';

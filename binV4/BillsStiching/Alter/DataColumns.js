@@ -1,4 +1,4 @@
-import ModalDataAsJson from './Data.json' assert { type: 'json' };
+import ModalDataAsJson from './Data.json' with { type: 'json' };
 
 let ColumnsPullFunc = () => {
     let LocalColumns = Object.keys(ModalDataAsJson);

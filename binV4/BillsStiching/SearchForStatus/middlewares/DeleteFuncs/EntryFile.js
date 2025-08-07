@@ -1,4 +1,4 @@
-import ModalDataJson from '../../Data.json' assert { type: 'json' };
+import ModalDataJson from '../../Data.json' with { type: 'json' };
 
 let PostFunc = (req, res, next) => {
     let LocalRequestBody = req.body;

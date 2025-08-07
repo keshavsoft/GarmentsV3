@@ -10,7 +10,7 @@ import {
     GetDataOnlyFunc as GetDataOnlyFuncDalsForMongoDb,
     } from '../../dalsForMongoDb/getFuncs/EntryFile.js';
 
-import ConfigJson from '../../../../Config.json' assert {type: 'json'};
+import ConfigJson from '../../../../Config.json' with {type: 'json'};
 
 
 

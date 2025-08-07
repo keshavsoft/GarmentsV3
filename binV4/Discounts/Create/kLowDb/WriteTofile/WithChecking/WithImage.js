@@ -1,7 +1,7 @@
 import fs from "fs";
 import { StartFunc as InsertFunc } from "./StartFunc.js";
-import ConfigJson from '../../../../Config.json' assert {type: 'json'};
-import tableNameJson from '../../../tableName.json' assert {type: 'json'};
+import ConfigJson from '../../../../Config.json' with {type: 'json'};
+import tableNameJson from '../../../tableName.json' with {type: 'json'};
 import path from "path";
 
 let StartFunc = ({ inDataToInsert }) => {

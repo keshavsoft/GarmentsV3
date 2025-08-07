@@ -1,4 +1,4 @@
-import tableNameJson from '../../../../tableName.json' assert {type: 'json'};
+import tableNameJson from '../../../../tableName.json' with {type: 'json'};
 
 let StartFunc = () => {
     let LocalReferenceKeys = {};

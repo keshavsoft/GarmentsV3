@@ -1,8 +1,8 @@
 // import { JSONSyncPreset } from 'lowdb/node';
 import { LowSync } from 'lowdb'
 import { JSONFileSync } from 'lowdb/node'
-import Configjson from '../../../Config.json' assert { type: 'json' };
-import tableNameJson from '../../tableName.json' assert { type: 'json' };
+import Configjson from '../../../Config.json' with { type: 'json' };
+import tableNameJson from '../../tableName.json' with { type: 'json' };
 import fs from "fs";
 import path, { resolve } from 'path';
 

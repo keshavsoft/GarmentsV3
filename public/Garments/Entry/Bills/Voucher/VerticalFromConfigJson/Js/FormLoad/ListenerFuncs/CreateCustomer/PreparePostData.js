@@ -1,4 +1,4 @@
-import PrepareBodyJson from "./PrepareBody.json" assert {type: 'json'};
+import PrepareBodyJson from "./PrepareBody.json" with {type: 'json'};
 
 let StartFunc = () => {
     let jVarLocalBodyData = {};

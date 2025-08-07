@@ -1,6 +1,6 @@
 import { StartFunc as StartFuncForFlatJson } from "./ForFlatJson/EntryFile.js";
 import { StartFunc as StartFuncReadDataSchema } from "./ReadDataSchema.js";
-import ConfigJson from '../Config.json' assert {type: 'json'};
+import ConfigJson from '../Config.json' with {type: 'json'};
 import { readdirSync } from 'fs'
 import fs from "fs";
 

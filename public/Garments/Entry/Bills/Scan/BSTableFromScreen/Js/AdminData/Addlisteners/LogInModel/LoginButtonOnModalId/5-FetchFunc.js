@@ -1,4 +1,4 @@
-import  ConfigObject  from '../../../Config.json' assert {type: 'json'};
+import  ConfigObject  from '../../../Config.json' with {type: 'json'};
 
 let StartFunc = async ({ inBodyData }) => {
     let jVarLocalBodyData = inBodyData;

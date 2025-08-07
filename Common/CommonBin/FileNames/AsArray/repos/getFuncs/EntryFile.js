@@ -1,6 +1,6 @@
 import { GetFunc as GetFuncDal } from '../../dals/getFuncs/EntryFile.js';
 import { GetFunc as dalsForSequelize } from '../../dalsForSequelize/getFuncs/EntryFile.js';
-import ConfigJson from '../../../../../../binV4/Config.json' assert {type: 'json'};
+import ConfigJson from '../../../../../../binV4/Config.json' with {type: 'json'};
 
 let GetFunc = async () => {
     if (ConfigJson.isSequelize) {

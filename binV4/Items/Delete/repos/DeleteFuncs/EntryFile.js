@@ -7,7 +7,7 @@ import {
 
 import { DeleteFunc as DeleteFuncDalsForMongoDB } from '../../dalsForMongoDb/DeleteFuncs/EntryFile.js';
 
-import ConfigJson from '../../../../Config.json' assert {type: 'json'};
+import ConfigJson from '../../../../Config.json' with {type: 'json'};
 
 import { DeleteFunc as DeleteFuncDalForSequalize } from '../../dalsForSequelize/DeleteFuncs/EntryFile.js';
 

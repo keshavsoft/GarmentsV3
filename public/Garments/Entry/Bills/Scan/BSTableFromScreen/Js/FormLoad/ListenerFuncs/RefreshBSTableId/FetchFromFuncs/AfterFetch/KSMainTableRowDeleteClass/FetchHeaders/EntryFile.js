@@ -1,6 +1,6 @@
-import KeysJson from './Keys.json' assert {type: 'json'};
-import BodyKeysJson from './BodyKeys.json' assert {type: 'json'};
-import PostBodyKeysJson from '../../../../../../../../ConfigKeys/FetchKeys/ForPostKeys.json' assert {type: 'json'};
+import KeysJson from './Keys.json' with {type: 'json'};
+import BodyKeysJson from './BodyKeys.json' with {type: 'json'};
+import PostBodyKeysJson from '../../../../../../../../ConfigKeys/FetchKeys/ForPostKeys.json' with {type: 'json'};
 
 let StartFunc = ({ inCurrentTarget }) => {
     let jVarLocalJsonPk = inCurrentTarget.dataset.pk;

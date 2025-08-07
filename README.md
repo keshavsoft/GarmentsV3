@@ -17,6 +17,10 @@ write end points in nodejs
 
 - binv4 added
 
+### 0.2.1
+
+- assert changed to with
+
 latest node supported with assert fixed
 
 ## License

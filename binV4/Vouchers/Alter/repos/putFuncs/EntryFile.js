@@ -9,7 +9,7 @@ import {
 
 import { PutFunc as PutFuncDalsForMongoDB } from "../../dalsForMongoDb/putFuncs/EntryFile.js";
 
-import ConfigJson from '../../../../Config.json' assert {type: 'json'};
+import ConfigJson from '../../../../Config.json' with {type: 'json'};
 
 let PutFunc = async ({ inDataToUpdate, inId }) => {
   if (ConfigJson.isSequelize) {

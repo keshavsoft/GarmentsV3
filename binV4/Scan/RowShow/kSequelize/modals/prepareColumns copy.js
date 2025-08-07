@@ -1,5 +1,5 @@
 import { DataTypes } from "sequelize";
-// import columnsJson from './columns.json' assert {type: 'json'};
+// import columnsJson from './columns.json' with {type: 'json'};
 
 const dataColumns = {
     Name: {

@@ -1,7 +1,7 @@
 import { StartFunc as StartFuncInitializeSequelize } from "./initializeSequelize.js";
 import { DataTypes } from "sequelize";
 
-import ConfigJson from '../Config.json' assert {type: 'json'};
+import ConfigJson from '../Config.json' with {type: 'json'};
 import path from "path";
 
 let StartFunc = async () => {

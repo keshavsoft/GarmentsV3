@@ -1,4 +1,4 @@
-import UrlJson from "./url.json" assert { type: "json" };
+import UrlJson from "./url.json" with { type: "json" };
 
 let StartFunc = async () => {
     let jVarLocalFetchUrl = UrlJson.PostUrl;

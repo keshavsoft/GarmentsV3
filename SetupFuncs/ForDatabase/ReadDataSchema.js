@@ -1,7 +1,7 @@
 import dirTree from "directory-tree";
 
 let CommonFromFolderName = "DataSchema";
-import ConfigJson from '../Config.json' assert {type: 'json'};
+import ConfigJson from '../Config.json' with {type: 'json'};
 
 let StartFunc = () => {
     let LocalDataPk = ConfigJson.ToDataDetails.DataPk;

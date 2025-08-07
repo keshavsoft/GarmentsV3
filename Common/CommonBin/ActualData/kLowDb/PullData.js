@@ -1,6 +1,6 @@
 import fs from "fs";
 import dirTree from "directory-tree";
-import ConfigJson from '../../../../../bin/Config.json' assert {type: 'json'};
+import ConfigJson from '../../../../../bin/Config.json' with {type: 'json'};
 
 let StartFunc = () => {
     let LocalReturnData = { KTF: false }

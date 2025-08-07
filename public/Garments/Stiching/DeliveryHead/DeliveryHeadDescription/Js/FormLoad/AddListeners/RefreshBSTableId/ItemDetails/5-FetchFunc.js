@@ -1,4 +1,4 @@
-import ApiConfigJson from "../../../../Config.json" assert {type: 'json'};
+import ApiConfigJson from "../../../../Config.json" with {type: 'json'};
 
 let StartFunc = async () => {
     let jVarLocalroutePath = ApiConfigJson.routePath;

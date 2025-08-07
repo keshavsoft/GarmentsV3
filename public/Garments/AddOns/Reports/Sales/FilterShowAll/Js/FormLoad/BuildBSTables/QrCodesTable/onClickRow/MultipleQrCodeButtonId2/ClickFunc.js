@@ -1,5 +1,5 @@
 import { StartFunc as StartFuncQrCodeToModal } from "./QrCodeToModal.js";
-import DataJson from './Data.json' assert {type: 'json'};
+import DataJson from './Data.json' with {type: 'json'};
 
 let StartFunc = () => {
     let jFLocalData1 = [{

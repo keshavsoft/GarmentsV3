@@ -1,4 +1,4 @@
-import ApiConfigJson from "../../../../ConfigKeys/ProjectKeys.json" assert {type: 'json'};
+import ApiConfigJson from "../../../../ConfigKeys/ProjectKeys.json" with {type: 'json'};
 import { StartFunc as StartFuncFetchHeaders } from "./FetchHeaders/EntryFile.js";
 
 let StartFunc = async () => {

@@ -1,4 +1,4 @@
-import Config from '../../Config.json' assert {type: 'json'};
+import Config from '../../Config.json' with {type: 'json'};
 
 
 let StartFunc = ({ inSuccessPrimary }) => {

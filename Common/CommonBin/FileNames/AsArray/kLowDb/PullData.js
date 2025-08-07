@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from 'path';
 import dirTree from "directory-tree";
-import ConfigJson from '../../../../../binV4/Config.json' assert {type: 'json'};
+import ConfigJson from '../../../../../binV4/Config.json' with {type: 'json'};
 
 let StartFunc = () => {
     let LocalDataPath = `${ConfigJson.jsonConfig.DataPath}/${ConfigJson.jsonConfig.DataPk}`;

@@ -1,4 +1,4 @@
-import ModalDataJson from './{{ksSample}}Data.json' assert { type: 'json' };
+import ModalDataJson from './{{ksSample}}Data.json' with { type: 'json' };
 
 let GetFunc = (req, res, next) => {
     let LocalRequestBody = req.body;

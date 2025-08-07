@@ -1,6 +1,6 @@
-import ColumnPk from "./TableColumns/ColumnPk.json" assert { type: "json" };
-import ColumnProductName from "./TableColumns/ColumnProductName.json" assert { type: "json" };
-import ColumnSalePrice from "./TableColumns/ColumnSalePrice.json" assert { type: "json" };
+import ColumnPk from "./TableColumns/ColumnPk.json" with { type: "json" };
+import ColumnProductName from "./TableColumns/ColumnProductName.json" with { type: "json" };
+import ColumnSalePrice from "./TableColumns/ColumnSalePrice.json" with { type: "json" };
 import { StartFunc as StartFuncColumnSalePrice } from "./TableColumns/ColumnSalePrice.js";
 import { StartFunc as StartFuncColumnProductName } from "./TableColumns/ColumnProductName.js";
 import { StartFunc as StartFuncColumnPk } from "./TableColumns/ColumnPk.js";

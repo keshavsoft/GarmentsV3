@@ -1,4 +1,4 @@
-import ConfigJson from "../../../Config.json" assert { type: "json" };
+import ConfigJson from "../../../Config.json" with { type: "json" };
 
 let StartFunc = async ({ inRowpk }) => {
     let LocalroutePath = ConfigJson.routePath;

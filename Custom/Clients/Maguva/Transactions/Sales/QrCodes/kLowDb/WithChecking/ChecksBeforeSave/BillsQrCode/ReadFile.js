@@ -1,5 +1,5 @@
 import fs  from 'fs'
-import Configjson from '../../../../../../../Config.json' assert { type: 'json' };
+import Configjson from '../../../../../../../Config.json' with { type: 'json' };
 
 let StartFunc = () => {
     let LocalReturnData = { KTF: false, JSONFolderPath: "", CreatedLog: {} };

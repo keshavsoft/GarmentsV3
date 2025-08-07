@@ -1,4 +1,4 @@
-import KeyNeeded from './KeyNeeded.json' assert {type: 'json'};
+import KeyNeeded from './KeyNeeded.json' with {type: 'json'};
 
 const StartFunc = () => {
     let jVarLocalKeyNeeded = KeyNeeded.Customers;

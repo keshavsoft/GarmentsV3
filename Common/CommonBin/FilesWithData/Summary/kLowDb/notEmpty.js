@@ -1,6 +1,6 @@
 import fs from "fs";
 import path from "path";
-import ConfigJson from '../../../../../binV4/Config.json' assert {type: 'json'};
+import ConfigJson from '../../../../../binV4/Config.json' with {type: 'json'};
 
 let StartFunc = () => {
     let LocalReturnData = { KTF: false }

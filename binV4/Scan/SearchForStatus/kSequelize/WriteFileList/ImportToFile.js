@@ -1,7 +1,7 @@
 import { StartFunc as StartFuncInitializeSequelizeWithTableName } from '../modals/initializeSequelizeWithTableName.js';
 
 import { StartFunc as StartFuncInitializeSequelize } from '../../../kSequelize/initializeSequelize.js';
-import tableNameJson from '../../tableName.json' assert { type: 'json' };
+import tableNameJson from '../../tableName.json' with { type: 'json' };
 import path from "path";
 
 let StartFunc = async (inPostBody) => {

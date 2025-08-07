@@ -1,5 +1,5 @@
 import multer from 'multer';
-import ConfigJson from '../../../Config.json' assert {type: 'json'};
+import ConfigJson from '../../../Config.json' with {type: 'json'};
 
 import {
     PostFunc as PostFuncRepo

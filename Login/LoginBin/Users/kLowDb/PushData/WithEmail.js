@@ -1,4 +1,4 @@
-import Configjson from '../../../../../binV4/Config.json' assert { type: 'json' };
+import Configjson from '../../../../../binV4/Config.json' with { type: 'json' };
 import { StartFunc as StartFuncReturnDbObject } from "../CommonFuncs/ReturnDbObject.js";
 
 let StartFunc = ({ inUsername, inPassword, inMail }) => {

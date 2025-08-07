@@ -1,4 +1,4 @@
-import ConfigJson from '../../../../../bin/Config.json' assert {type: 'json'};
+import ConfigJson from '../../../../../bin/Config.json' with {type: 'json'};
 import _ from "lodash";
 
 let StartFunc = () => {

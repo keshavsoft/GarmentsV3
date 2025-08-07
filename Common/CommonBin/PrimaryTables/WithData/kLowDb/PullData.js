@@ -1,5 +1,5 @@
 import fs from "fs";
-import ConfigJson from '../../../../../binV4/Config.json' assert {type: 'json'};
+import ConfigJson from '../../../../../binV4/Config.json' with {type: 'json'};
 import path from "path";
 
 let StartFunc = () => {

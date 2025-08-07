@@ -1,7 +1,7 @@
 import { LowSync } from 'lowdb'
 import { JSONFileSync } from 'lowdb/node';
 
-import Configjson from '../../../../../Config.json' assert { type: 'json' };
+import Configjson from '../../../../../Config.json' with { type: 'json' };
 
 let StartFunc = ({ inFileName }) => {
     let LocalReturnData = { KTF: false, JSONFolderPath: "", CreatedLog: {} };
