@@ -21,6 +21,10 @@ write end points in nodejs
 
 - assert changed to with
 
+### 0.2.2
+
+- print header removed
+
 latest node supported with assert fixed
 
 ## License

@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "SupplierName": "Supplier1",
+    "BillNumber": "16",
+    "Date": "2025-08-07",
+    "AliasName": "",
+    "TotalAmount": 1600,
+    "UuId": 1,
+    "pk": 1,
+    "DateTime": "2025-08-07T16:47:31.350Z"
+  }
+]

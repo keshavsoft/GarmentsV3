@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "ProductName": "dress materials",
+    "UnitRate": 2250,
+    "pk": 3,
+    "sno": 1,
+    "Barcode": "M-3",
+    "DisPercentage": 10,
+    "DisRate": 225,
+    "GrossAmout": 2025,
+    "Qty": 0,
+    "BillPk": "1",
+    "UuId": 1,
+    "DateTime": "2025-08-07T16:57:09.522Z"
+  }
+]

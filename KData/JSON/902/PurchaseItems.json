@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "ItemName": "dress materials",
+    "FK": "1",
+    "UnitRate": 1500,
+    "Qty": 10,
+    "sno": null,
+    "PercentageValueAddition": 50,
+    "MRP": 2250,
+    "Amount": 15000,
+    "UuId": 1,
+    "pk": 1,
+    "DateTime": "2025-08-07T16:49:10.486Z"
+  }
+]
